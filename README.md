@@ -54,7 +54,6 @@
 
 ![GUI](https://img.shields.io/badge/GUI-555555?style=flat)
 ![Mobile Applications](https://img.shields.io/badge/Mobile%20Applications-3DDC84?style=flat)
-![Teaching](https://img.shields.io/badge/Teaching-FF69B4?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat)
 
 ```cpp
